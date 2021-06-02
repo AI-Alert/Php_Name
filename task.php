@@ -1,4 +1,5 @@
 <?php
 
     $str = "first realization";
-    print_r ($str);
+    $str2 = "updated realization"
+    print_r ($str2);
